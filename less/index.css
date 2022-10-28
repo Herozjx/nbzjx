@@ -1,12 +1,20 @@
 h1 {
-  width: 300px;
-  height: 50px;
-  color: white;
-  background-color: #4c27ee;
+    width: 300px;
+    height: 50px;
+    color: white;
+    background-color: #4c27ee;
 }
+
 h2 {
-  width: 300px;
-  height: 50px;
-  color: #4dacf0;
-  background-color: #16db0c;
+    width: 300px;
+    height: 50px;
+    color: #4dacf0;
+    background-color: #16db0c;
+}
+
+h2 {
+    width: 300px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #59ee27;
 }
